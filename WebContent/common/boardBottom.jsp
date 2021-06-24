@@ -12,4 +12,4 @@
 		copyright &copy; 2019 한국소프트웨어인재개발원.
 		All right reserved.
 	</div>
-</div>
+</div>    
